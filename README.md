@@ -51,7 +51,7 @@ you can now carry out "run" the python scrypt with the following command:
 ## Confusion Matrix 
 
 <p align="center">
-<img src="./fig/example_distribution.png" width="1200px"></img>
+<img src="./fig/confusion_matrix.png" width="500px"></img>
 </p>
 
 
