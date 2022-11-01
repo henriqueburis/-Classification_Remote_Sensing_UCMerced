@@ -27,6 +27,10 @@ If you use this method or this code in your paper, then please cite it:
 <img src="./fig/balanced.png" width="500px"></img>
 </p>
 
+<p align="center">
+<img src="./fig/example_distribution.png" width="1200px"></img>
+</p>
+
 
 ## Code organization
 
@@ -46,6 +50,18 @@ you can now carry out "run" the python scrypt with the following command:
 
 ## Confusion Matrix 
 
+<p align="center">
+<img src="./fig/example_distribution.png" width="1200px"></img>
+</p>
+
 
 ## Graphic Train, Loss, test classification
 
+
+<p align="center">
+<img src="./fig/trainACC.png" width="300px"></img>
+</p>
+
+<p align="center">
+<img src="./fig/trainLoss.png" width="300px"></img>
+</p>
