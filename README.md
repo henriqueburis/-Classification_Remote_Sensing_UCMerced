@@ -36,6 +36,8 @@ If you use this method or this code in your paper, then please cite it:
 
 - `train.py`: .........
 
+- `pixforce.ipynb`: ...........
+
 
 
 ## Train
